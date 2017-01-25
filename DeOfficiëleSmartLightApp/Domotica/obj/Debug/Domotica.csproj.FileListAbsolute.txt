@@ -1,0 +1,148 @@
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Domotica\Domotica\obj\Debug\Domotica.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Domotica\Domotica\bin\Debug\Domotica.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Domotica\Domotica\bin\Debug\Domotica.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Domotica\Domotica\bin\Debug\Domotica.Domotica.apk
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Domotica\Domotica\bin\Debug\Domotica.Domotica-Signed.apk
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Domotica\Domotica\obj\Debug\Domotica.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Domotica\Domotica\obj\Debug\Domotica.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Domotica\Domotica\obj\Debug\android\bin\Domotica.Domotica.apk
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Domotica\Domotica\obj\Debug\res\layout\main.xml
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Domotica\Domotica\obj\Debug\res\values\strings.xml
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Domotica\Domotica\obj\Debug\res\drawable\icon.png
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Domotica\Domotica\obj\Debug\res\menu\menu.xml
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Domotica\Domotica\obj\Debug\R.cs.flag
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Domotica\Domotica\obj\Debug\uploadflags.txt
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\bin\Debug\Domotica.Domotica.apk
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\bin\Debug\Domotica.Domotica-Signed.apk
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\obj\Debug\Domotica.csprojResolveAssemblyReference.cache
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\obj\Debug\android\bin\Domotica.Domotica.apk
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\obj\Debug\res\layout\main.xml
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\obj\Debug\res\values\strings.xml
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\obj\Debug\res\drawable\icon.png
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\obj\Debug\res\menu\menu.xml
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\obj\Debug\R.cs.flag
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\obj\Debug\uploadflags.txt
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\bin\Debug\DomoticaT.dll
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\bin\Debug\DomoticaT.pdb
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\obj\Debug\DomoticaT.dll
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\obj\Debug\DomoticaT.pdb
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\obj\Debug\DomoticaT.dll.mdb
+Y:\CloudStation\Development\Xamarin\Domotica\Domotica\bin\Debug\DomoticaT.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\Domotica.csprojResolveAssemblyReference.cache
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\DomoticaT.dll
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\DomoticaT.pdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\Domotica.Domotica.apk
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\Domotica.Domotica-Signed.apk
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\DomoticaT.dll
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\DomoticaT.pdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\android\bin\Domotica.Domotica.apk
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\res\layout\main.xml
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\res\values\strings.xml
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\res\drawable\icon.png
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\res\values\theme.xml
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\R.cs.flag
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\uploadflags.txt
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\DomoticaT.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\Java.Interop.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\Mono.Android.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\mscorlib.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\System.Core.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\System.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\System.Xml.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\android\assets\DomoticaT.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\android\assets\System.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\arlan\Desktop\DomoticaT\Domotica\obj\Debug\DomoticaT.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\DomoticaT.dll
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\DomoticaT.pdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\Domotica.Domotica.apk
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\Domotica.Domotica-Signed.apk
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\Domotica.csprojResolveAssemblyReference.cache
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\DomoticaT.dll
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\DomoticaT.pdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\android\bin\Domotica.Domotica.apk
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\res\layout\main.xml
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\res\values\strings.xml
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\res\drawable\icon.png
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\res\values\theme.xml
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\R.cs.flag
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\uploadflags.txt
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\DomoticaT.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\Java.Interop.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\Mono.Android.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\mscorlib.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\System.Core.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\System.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\System.Xml.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\android\assets\DomoticaT.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\android\assets\System.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\arlan\Desktop\domoticT2\Domotica\obj\Debug\DomoticaT.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\DomoticaT.dll
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\DomoticaT.pdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\DomoticaT.dll
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\DomoticaT.pdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\Domotica.Domotica.apk
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\Domotica.Domotica-Signed.apk
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\android\bin\Domotica.Domotica.apk
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\res\layout\main.xml
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\res\values\strings.xml
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\res\drawable\icon.png
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\res\values\theme.xml
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\R.cs.flag
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\uploadflags.txt
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\DomoticaT.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\Java.Interop.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\Mono.Android.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\mscorlib.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\System.Core.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\System.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\System.Xml.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\android\assets\DomoticaT.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\android\assets\System.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\Domotica.csprojResolveAssemblyReference.cache
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\obj\Debug\DomoticaT.dll.mdb
+C:\Users\arlan\Desktop\domoticT2 - kopie\Domotica\bin\Debug\DomoticaT.dll.mdb

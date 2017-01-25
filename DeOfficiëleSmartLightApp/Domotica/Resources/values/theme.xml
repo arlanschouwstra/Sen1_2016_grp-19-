@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="theme_devicedefault_light_dialogwhenlarge_noactionbar_background">#ffe0f2f1</color>
+  <style name="Theme.Custom" parent="@android:style/Theme.DeviceDefault.Light.DialogWhenLarge.NoActionBar">
+    <item name="android:colorBackground">@color/theme_devicedefault_light_dialogwhenlarge_noactionbar_background</item>
+    <item name="android:windowBackground">?android:attr/colorBackground</item>
+    <item name="android:colorPrimary">#ffb2dfdb</item>
+    <item name="android:colorPrimaryDark">#ff00897b</item>
+    <item name="android:colorAccent">#ff009688</item>
+    <item name="android:textColorPrimary">#ffe0f7fa</item>
+    <item name="android:textColorSecondary">#ff031517</item>
+    <item name="android:colorControlNormal">#ff1a237e</item>
+    <item name="android:colorControlActivated">#ff9fa8da</item>
+    <item name="android:colorButtonNormal">#ff00796b</item>
+  </style>
+</resources>
